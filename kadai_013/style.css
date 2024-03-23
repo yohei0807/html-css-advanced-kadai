@@ -91,8 +91,8 @@ PC用のスタイル
   }
   #close{
     position: absolute;
-    left: 20;
-    top: 20;
+    right: 20px;
+    top: 20px;
   }
   #logo-sp{
     margin: 80px 0 30px 20px;
